@@ -11,22 +11,22 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {cyber-x@;;;dAcxzarL#mWOQpeLM3vCwW43xF237lppZViOLQGlLMyU7P30zziA}
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY": {8604553a-4d8d-4bd1-ba7d-ab9e502d32cc
             "description": "Enter your heroku account api key",
             "required": true,
             "value": ""
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {senalbot2011}
             "description": "Enter you pushed app Name",
             "required": true,
             "value": ""
         },
-        "WORK_TYPE": {
+        "WORK_TYPE": {public}
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
             "value": "private"
